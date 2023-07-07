@@ -12,6 +12,7 @@ While doing this challenge I used things like :
 - Callback functions
 
 Application layout :
-![screen1](https://github.com/Batavoo/biscoito_da_sorte/assets/88382736/43f1a710-b159-486e-be97-765c3a8757d2)
+
+![screen1](https://github.com/Batavoo/biscoito_da_sorte/assets/88382736/360d3453-91fd-43f4-bc31-b13152c4176e)
 
 Link: https://www.figma.com/community/file/1182751789348533739
